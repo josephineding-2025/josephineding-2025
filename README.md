@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-### I’m currently Year 1 Computer Science (Artificial Intelligence) student from UM
+### I'm Josephine!
+🎓 Computer Science (AI) student @ Universiti Malaya  
+💻 Passionate about Java, Git workflows, and building clean, logical code  
+🌐 Exploring web development with HTML, CSS and JavaScript.
+📊 Learning data analysis with Python, Pandas, and numPy  
 
 <!--
 **josephineding-2025/josephineding-2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
