@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I'm Josephine!
-🎓 Computer Science (AI) student @ Universiti Malaya  
+🎓 Year 1 Computer Science (AI) student @ Universiti Malaya  
 💻 Passionate about Java, Git workflows, and building clean, logical code  
 🌐 Exploring web development with HTML, CSS and JavaScript.
 📊 Learning data analysis with Python, Pandas, and numPy  
